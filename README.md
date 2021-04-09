@@ -15,10 +15,12 @@ Each DYOM could have a link to its own README/repository.
 
 ## DYOM Archive
 
-Year| Title | Supervising Prof | Link to Materials |
-2020| Readings in Distributed Systems | Prof Seth | ------------- |
-2021| Readings in Distributed Systems | Prof Cristina | ------------- |
-2020| Type Theory | Prof Chin Wei Ngan | ------------- |
+
+| Year |  Title |  Supervising Prof | Link to Materials  | 
+|---|---|---|---|
+| 2020  | Readings in Distributed Systems  |  Prof Seth |   |   
+| 2021  | Readings in Distributed Systems  | Prof Cristin  |   |   
+|  2020 | Type Theory  | Prof Chin Wei Ngan  |   |   
 
 
 @TODO {Joel} Ask NUS Dist Sys group and Type Theory DYOM for opinion.
