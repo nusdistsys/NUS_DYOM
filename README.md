@@ -13,6 +13,19 @@ Each DYOM could have a link to its own README/repository.
 
 ## How to start a DYOM (in SoC?)
 
+### Relevant doc:
+https://www.nus.edu.sg/registrar/academic-information-policies/undergraduate-students/design-your-own-module
+
+### Rought Sketch of what you'd need to do:
+
+1. Draft a plan with module outline. This should include topics covered, learning outcomes, and how this differs from existing modules in NUS. The grading criteria is less important because it is pass/fail.
+2. Gather at least ten people to take the module with oyu
+3. Find a supervisor -- this is typically a NUS Staff. You can reach out to professors you know or professors who are working in a research area related to the topics covered in the DYOM
+4. Submit a proposal on myEduRec before due date(for sem 1 this is 20th July)
+5. Before the semester(approx) head to MyEduRec and upload the names of the ten people who are doing the DYOM with you
+6. At the end of the semester submit documentation logging who passed and who failed as well as supporting documentation(if any)
+
+
 ## DYOM Archive
 
 
@@ -39,8 +52,7 @@ Each DYOM could have a link to its own README/repository.
 
 ### Community
 
-@TODO {Joel} Provide list of contacts/channels. To be updated. For now, you can check out the [NUS Hacker Chat](t.me/nushackers_chat) for general discussion.
-
+@TODO {Joel} Provide list of contacts/channels. To be updated. For now, you can check out the [NUS Hacker Chat](https://t.me/nushackers_chat) for general discussion. 
 
 
 ### General Links
@@ -53,4 +65,4 @@ Each DYOM could have a link to its own README/repository.
 
 ### Contributors/Thank You List
 
-We would like to thank Zongran, Jian Jie, Thomas, Prof Cristina, Prof Seth and <include list of people>
+We would like to thank Zongran, Jian Jie, Julius, Donald, Arslan, Thomas, Prof Cristina, Prof Seth and everyone else who took part in the 19/20 and 20/21 edition of the DYOM.
